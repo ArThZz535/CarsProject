@@ -10,7 +10,9 @@ export default function App () {
       
       <section>
         
-        <div>
+
+
+        <div className="bg-orange">
           
           <img src={iconSedans} alt="ícone dos carros sedan" />
           
@@ -22,7 +24,9 @@ export default function App () {
         
         </div>
 
-        <div>
+
+
+        <div className="bg-green">
 
           <img src={iconSuvs} alt="ícone dos carros SUV" />
 
@@ -34,7 +38,9 @@ export default function App () {
 
         </div>
 
-        <div>
+
+
+        <div className="bg-dark-green">
 
           <img src={iconLuxury} alt="ícone dos carros de luxo" />
 
@@ -45,6 +51,8 @@ export default function App () {
           <a href="https://www.webmotors.com.br/carros-de-luxo" target="_blanck">Ver mais</a>
 
         </div>
+      
+
       
       </section>
     
