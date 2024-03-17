@@ -6,7 +6,7 @@ export default function App () {
 
   return (
 
-    <main>
+    <main className=" min-h-svh bg-offwhitebg py-20 px-6">
       
       <section>
         
